@@ -1,35 +1,35 @@
 body {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 nav {
-    background-color: #00215E;
-    padding: 8px;
+  background-color: #00215e;
+  padding: 8px;
 }
 
 .nav ul {
-    list-style-type: none;
-    text-align: right;
+  list-style-type: none;
+  text-align: right;
 }
 
 .nav li {
-    display: inline-block;
+  display: inline-block;
 }
 
 .nav li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
 .nav li a:hover {
-    background-color: #555;
-    border-radius: 2rem;
+  background-color: #555;
+  border-radius: 2rem;
 }
 
 div {
-    padding-left: 2rem;
+  padding-left: 2rem;
 }
